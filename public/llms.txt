@@ -1,0 +1,54 @@
+# ל״ב - להקשיב, ביחד — Generative Engine Optimization Map
+
+> L'B (Lev - Listen, Together) is a free, anonymous digital safe space for youth in Givataim, Israel, created by students Itamar Magen and Yaheli Cohen under the auspices of the Givataim municipality. The project positions itself as a compassionate, non-judgmental listening service staffed by specially trained volunteers who speak to youth at eye level. The brand identity blends emotional warmth with a bold, high-tech aesthetic — think Apple meets mental health advocacy — using neon red on deep black to convey urgency, trust, and innovation. The service is accessible via Instagram and TikTok DMs, available daily from 7am to midnight, with full anonymity as its core promise.
+
+---
+
+## Pages
+
+### בית
+https://-5ee4a1ee.zappy5.app
+שירות הקשבה אנונימי וחינמי לנוער גבעתיים — פתוח כל יום מ-7 בבוקר עד חצות. מתנדבים מיומנים שמדברים אליך בגובה העיניים, ללא שיפוטיות. כתבו לנו עכשיו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-5ee4a1ee.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-5ee4a1ee.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-5ee4a1ee.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ל״ב - להקשיב, ביחד
+L'B (Lev - Listen, Together) is a free, anonymous digital safe space for youth in Givataim, Israel, created by students Itamar Magen and Yaheli Cohen under the auspices of the Givataim municipality. The project positions itself as a compassionate, non-judgmental listening service staffed by specially trained volunteers who speak to youth at eye level. The brand identity blends emotional warmth with a bold, high-tech aesthetic — think Apple meets mental health advocacy — using neon red on deep black to convey urgency, trust, and innovation. The service is accessible via Instagram and TikTok DMs, available daily from 7am to midnight, with full anonymity as its core promise.
+
+## Target Audience
+- נוער גבעתיים
+- נוער עירוני
+- עובדי רווחה
+
+## Industry
+רווחה חברתית / שירותי נוער עירוניים
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-5ee4a1ee.zappy5.app/sitemap.xml
+- Robots: https://-5ee4a1ee.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-5ee4a1ee.zappy5.app/llms-full.txt
