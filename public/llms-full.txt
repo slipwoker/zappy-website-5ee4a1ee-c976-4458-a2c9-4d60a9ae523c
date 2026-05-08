@@ -2,13 +2,13 @@
 
 L'B (Lev - Listen, Together) is a free, anonymous digital safe space for youth in Givataim, Israel, created by students Itamar Magen and Yaheli Cohen under the auspices of the Givataim municipality. The project positions itself as a compassionate, non-judgmental listening service staffed by specially trained volunteers who speak to youth at eye level. The brand identity blends emotional warmth with a bold, high-tech aesthetic — think Apple meets mental health advocacy — using neon red on deep black to convey urgency, trust, and innovation. The service is accessible via Instagram and TikTok DMs, available daily from 7am to midnight, with full anonymity as its core promise.
 
-Source: https://-5ee4a1ee.zappy5.app
+Source: https://example.com
 
 ---
 
 ## דברו איתנו — אנחנו מקשיבים | ל״ב - להקשיב, ביחד
 
-URL: https://-5ee4a1ee.zappy5.app
+URL: https://example.com
 Description: שירות הקשבה אנונימי וחינמי לנוער גבעתיים — פתוח כל יום מ-7 בבוקר עד חצות. מתנדבים מיומנים שמדברים אליך בגובה העיניים, ללא שיפוטיות. כתבו לנו עכשיו.
 
 דברו איתנו — אנחנו מקשיבים | ל״ב - להקשיב, ביחד
@@ -742,7 +742,7 @@ TikTok DM
 
 ## מדיניות פרטיות
 
-URL: https://-5ee4a1ee.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -994,7 +994,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-5ee4a1ee.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1255,7 +1255,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-5ee4a1ee.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
